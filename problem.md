@@ -1,6 +1,6 @@
 # pseudocodes   
 ### problem 1: student information using different data types 
-start     
+start        
 declare student name as string     
 declare student age as integer     
 declare student grade as char        
